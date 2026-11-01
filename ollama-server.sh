@@ -1,0 +1,2 @@
+#!/bin/bash -x
+OLLAMA_CONTEXT_LENGTH=24000 OLLAMA_KV_CACHE_TYPE=q8_0 ollama serve

@@ -1,0 +1,12 @@
+click==8.3.0
+requests==2.32.5
+rich==15.0.0
+langchain==1.4.7
+langchain-ollama==1.1.0
+
+# Sniffer
+aiohttp>=3.14.3,<4
+multidict>=7.0.0,<8
+rich>=15.0.0,<16
+textual>=8.2.8,<9
+yarl>=1.25.1,<2
